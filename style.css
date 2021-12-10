@@ -1,5 +1,5 @@
 h1 {
-    color: white;
+    color: red;
     margin-left: 30px;
 }
 
@@ -8,7 +8,7 @@ h1 {
 } 
 
 .header{
-    background-color: cadetblue;
+    background-color: yellow;
     display: flex;
     justify-content: space-between;
 }
